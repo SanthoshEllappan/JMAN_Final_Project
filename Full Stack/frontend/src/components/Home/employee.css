@@ -1,0 +1,35 @@
+.dashboard-container {
+  padding: 20px;
+}
+
+.dashboard-title {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #1E3A8A;
+}
+
+.custom-card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  margin-bottom: 5px;
+}
+
+.card-count {
+  font-size: 45px;
+  margin-top: 12px;
+  font-weight: 700;
+  text-align: center;
+  color: #227222;
+}
+
+.loading {
+  text-align: center;
+  font-size: 24px;
+  color: #4B5563;
+}
+
+.error {
+  text-align: center;
+  color: red;
+  font-size: 18px;
+}
